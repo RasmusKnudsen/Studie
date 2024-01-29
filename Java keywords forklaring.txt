@@ -1,0 +1,57 @@
+Beskriv med dine egne ord hvad følgende er og hvad det bruges til: 
+
+A Class: 
+Et "kapitel" i koden, hvor man koder en specifik del. 
+
+An Object: 
+Gives attributer/instantieres. Kaldes fra klassen
+
+Abstraction: 
+Bruges til kun at vise essensielle detaljer/funktioner til brugeren (i stedet for hele koden)
+
+Encapsulation: 
+Bruges eksempelvis ved at sætte all klassens variabler til private og derefter lave public metoder til at hente dataen. <-God til sikkerhed i sin kode, da andre ikke kan se den.
+
+Inheritance: 
+Nedarvning. 
+
+Polymorphism: 
+Vigtig feature i javas OOP. Man kan definere en ting og bruge den på flere måder. 
+
+Constructor: 
+Attributter tildeles og bruges når man laver objekter. 
+
+Composition: 
+
+
+Interfaces: 
+en klasse kun med metoder.
+
+Abstract class: 
+En klasse som nedarver fra en superklasse.
+
+Static: 
+keyword. Bruges til at dele den samme variabel igennem hele klassen. Dvs alle mennesker vil eksempelvis have samme alder, hvis man skriver "static int age".
+^Bliver en del af "grund opskriften" af klassen. Alle instanser får dermed samme age. Statisk på klassen. Ellers på instansen. 
+
+Git: 
+
+Github: 
+Et sted at smide sin kode/lave repository til koden.
+
+Branch: 
+Bruges til at lave en ny del af et github repository, så man har sin egen del af en koden. 
+
+Merge conflict: 
+Forskellige folks koder kan ikke merges. Sandsynligvis da der er et overlap i folks kode. 
+
+Pull request: 
+Hente den opdaterede kode fra github.
+
+Kanban: 
+Kan bruges til at få en oversigt over sit projekt(To-do, bugs, igangværende, done kolloner, hvor man kan få en oversigt over hvor langt man er)
+
+Standup meeting: 
+Kort snak. Står op og fortæller om hvad man laver. Kort status/forventningsafstemning. 
+
+Unit test: 
